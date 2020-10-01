@@ -1,0 +1,9 @@
+https://github.com/javavlsu/lab-01-alex-kuver
+
+
+git init
+git checkout -b name
+git add README.md
+git commit-m "first commit"
+git remote add origin https://github.com/alex-kuver/test.git
+git push-u origin master
